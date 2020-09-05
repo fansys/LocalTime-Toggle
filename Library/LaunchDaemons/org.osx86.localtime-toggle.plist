@@ -4,8 +4,10 @@
 <dict>
 	<key>Label</key>
 	<string>org.osx86.localtime-toggle</string>
-	<key>Program</key>
-	<string>/sbin/localtime-toggle</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/sbin/localtime-toggle</string>
+	</array>
 	<key>KeepAlive</key>
 	<true/>
 	<key>RunAtLoad</key>
