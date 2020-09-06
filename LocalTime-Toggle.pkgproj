@@ -437,12 +437,12 @@
 					<key>PATH</key>
 					<string>fix_time_osx.sh</string>
 					<key>PATH_TYPE</key>
-					<integer>3</integer>
+					<integer>1</integer>
 				</dict>
 				<key>PREINSTALL_PATH</key>
 				<dict>
 					<key>PATH_TYPE</key>
-					<integer>0</integer>
+					<integer>1</integer>
 				</dict>
 				<key>RESOURCES</key>
 				<array>
@@ -452,39 +452,7 @@
 						<key>GID</key>
 						<integer>0</integer>
 						<key>PATH</key>
-						<string>fix_time_osx.sh</string>
-						<key>PATH_TYPE</key>
-						<integer>1</integer>
-						<key>PERMISSIONS</key>
-						<integer>493</integer>
-						<key>TYPE</key>
-						<integer>3</integer>
-						<key>UID</key>
-						<integer>0</integer>
-					</dict>
-					<dict>
-						<key>CHILDREN</key>
-						<array/>
-						<key>GID</key>
-						<integer>0</integer>
-						<key>PATH</key>
 						<string>Library</string>
-						<key>PATH_TYPE</key>
-						<integer>1</integer>
-						<key>PERMISSIONS</key>
-						<integer>493</integer>
-						<key>TYPE</key>
-						<integer>3</integer>
-						<key>UID</key>
-						<integer>0</integer>
-					</dict>
-					<dict>
-						<key>CHILDREN</key>
-						<array/>
-						<key>GID</key>
-						<integer>0</integer>
-						<key>PATH</key>
-						<string>README.md</string>
 						<key>PATH_TYPE</key>
 						<integer>1</integer>
 						<key>PERMISSIONS</key>
@@ -551,6 +519,20 @@
 		<dict>
 			<key>NOTES</key>
 			<data>
+			PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1M
+			IDQuMDEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvVFIvaHRtbDQv
+			c3RyaWN0LmR0ZCI+CjxodG1sPgo8aGVhZD4KPG1ldGEgaHR0cC1l
+			cXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7
+			IGNoYXJzZXQ9VVRGLTgiPgo8bWV0YSBodHRwLWVxdWl2PSJDb250
+			ZW50LVN0eWxlLVR5cGUiIGNvbnRlbnQ9InRleHQvY3NzIj4KPHRp
+			dGxlPjwvdGl0bGU+CjxtZXRhIG5hbWU9IkdlbmVyYXRvciIgY29u
+			dGVudD0iQ29jb2EgSFRNTCBXcml0ZXIiPgo8bWV0YSBuYW1lPSJD
+			b2NvYVZlcnNpb24iIGNvbnRlbnQ9IjE4OTQuNiI+CjxzdHlsZSB0
+			eXBlPSJ0ZXh0L2NzcyI+CnAucDEge21hcmdpbjogMC4wcHggMC4w
+			cHggMC4wcHggMC4wcHg7IGZvbnQ6IDEyLjBweCBIZWx2ZXRpY2E7
+			IGNvbG9yOiAjMDAwMDAwfQo8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5
+			Pgo8cCBjbGFzcz0icDEiPkxvY2FsVGltZS1Ub2dnbGU8L3A+Cjwv
+			Ym9keT4KPC9odG1sPgo=
 			</data>
 		</dict>
 		<key>PROJECT_PRESENTATION</key>

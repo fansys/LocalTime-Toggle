@@ -6,11 +6,11 @@
 	<string>org.osx86.localtime-toggle</string>
 	<key>ProgramArguments</key>
 	<array>
-		<string>/sbin/localtime-toggle</string>
+		<string>/usr/local/bin/localtime-toggle</string>
 	</array>
-	<key>KeepAlive</key>
-	<true/>
 	<key>RunAtLoad</key>
+	<true/>
+	<key>KeepAlive</key>
 	<true/>
 	<key>HopefullyExitsFirst</key>
 	<true/>
